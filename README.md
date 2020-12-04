@@ -39,7 +39,7 @@ The entire CASA gathers every 6 weeks for a meeting (attendance is optional). In
 
 ### **Working Group Meetings**
 
-CASA members self-organize into topic-based working groups. Individual working groups create their own charter, decide their own meeting schedule, and communicate in their own designated communication channel. We expect working groups to meet frequently enough to share out at the next CASA meeting (currently every 6 weeks). Use the CASA meetings notes template to take good meeting notes to keep the rest of the CASA aligned.
+CASA members self-organize into topic-based working groups. Individual working groups decide their own meeting schedule, and communicate in their own designated communication channel. We expect working groups to meet frequently enough to share out at the next CASA meeting (currently every 6 weeks). Use the CASA meetings notes template to take good meeting notes to keep the rest of the CASA aligned.
 
 ## **Working Groups**
 
