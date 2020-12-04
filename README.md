@@ -29,7 +29,7 @@ The CASA has three levels of participant structure:
 
 ### **CASA Meetings**
 
-The entire CASA gathers every XXX weeks for a meeting (attendance is optional). In this meeting, members:
+The entire CASA gathers every 6 weeks for a meeting (attendance is optional). In this meeting, members:
 
 - Share progress from existing working groups
 - Propose the creation of new working groups
@@ -45,21 +45,21 @@ CASA members self-organize into topic-based working groups. Individual working g
 
 ### **List of working groups**
 
-| Working Group                   | Status                    | Description | Related to CAIP |
-| :-------------                  | :-----------              | :---------- | :---------- |
-| `CAIPs discussion`            | Active                    | TBC |  All |
-| `Chain Id`            | Active                    | TBC |  CAIP-2 |
-| `Account Id`            | Active                    | TBC |  CAIP-10 |
-| `Asset Id`            | Active                    | TBC |  CAIP-19 |
-| `Json RPC`            | Active                    | TBC |  CAIP-24, CAIP-25 |
-| `Asset Registry`                      | Active                    | TBC  | CAIP-19 |
+| Working Group                   | Status                    | Description | Linked repo(s) | Related to CAIP |
+| :-------------                  | :-----------              | :---------- | :---------- | :---------- |
+| `CAIPs discussion`            | Active                    | TBC | TBC |  All |
+| `Chain Id`            | Active                    | TBC | TBC | CAIP-2 |
+| `Account Id`            | Active                    | TBC | TBC |  CAIP-10 |
+| `Asset Id`            | Active                    | TBC | TBC | CAIP-19 |
+| `Json RPC`            | Active                    | TBC | TBC |  CAIP-24, CAIP-25 |
+| `Asset Registry`                      | Active                    | TBC  | TBC | CAIP-19 |
 
 ### **How to form a new working group**
 
 1. Join the CASA.
 2. Create a Charter for your working group.
-3. Submit a Pull Request to the CASA repository adding your working group and charter.
-4. Propose your working group at the next CASA meeting. If approved, your PR will be merged,  your working group meeting schedule (specified in the charter) will be added to the CASA calendar.
+3. Submit a Pull Request to the CASA repository adding your working group and create a description that explain the goal of the Working Group and the related CAIPs.
+4. Propose your working group at the next CASA meeting. If approved, your PR will be merged,  your working group meeting schedule will be added to the CASA calendar.
 5. Recruit participants for your working group.
 
 ## **Members**
