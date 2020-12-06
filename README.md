@@ -11,9 +11,9 @@
 
 ## **Purpose**
 
-The CASA is a autonomous alliance dedicated to write standard for blockchain protocol that are not specific to a single chain. It aims to have collaborators from all the crypto-space. The initiative come from few crypto community members that self-organize with the objective of having unified and efficient process that include the whole ecosystem. It aim to make the crypto more seamless and more interoperable between protocols, software and companies.
+The CASA is a autonomous alliance dedicated to write standards for blockchain protocols that are not specific to a single chain. It aims to have collaborators from all the crypto-space. The initiative emerged from a few crypto community members that self-organize with the objective of having unified and efficient process that include the whole ecosystem. It aims to make the crypto more seamless and more interoperable between protocols, software and companies.
 
-The CASA have the only goal to organize working group, be a place where all proposals are gathered and to publish final CAIPs and implementation proposals that could be adopted by the community. 
+The CASA has the only goal to organize working groups, be a place where all proposals are gathered and to publish final CAIPs and implementation proposals that could be adopted by the community. 
 
 ## **Structure**
 
@@ -22,7 +22,7 @@ The CASA has three levels of participant structure:
 | Role                            | Description            |
 | :-------------                  | :-----------              |
 | Members            | All participants. Expected to participate in working groups. |
-| Working Groups            | Collections of members tackling specific areas of interest, such as Ceramic governance or identity. |
+| Working Groups            | Collections of members tackling specific areas of interest.|
 | Maintainers                    | Members that run CASA meetings (not working group meetings) and ensure overall integrity of process. |
 
 ## **Meetings**
