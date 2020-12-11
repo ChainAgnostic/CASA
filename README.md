@@ -68,7 +68,7 @@ Below, find a list of all members and their organizations.
 
 | Organizations                     | Members        | Status       | Working groups |
 | :-------------                    | :-----------   | :-----------   | :-----------   |
-| ChainAgnostic      | Ligi ([@ligi](https://github.com/ligi)), Pedro Gomes ([@pedrouid](https://github.com/pedrouid)), Antoine Herzog [@antoineherzog](https://github.com/antoineherzog) | Maintainer | All Working groups    |
+| ChainAgnostic      | Ligi ([@ligi](https://github.com/ligi)), Pedro Gomes ([@pedrouid](https://github.com/pedrouid)), Antoine Herzog ([@antoineherzog](https://github.com/antoineherzog)) | Maintainer | All Working groups    |
 | Add your organisation here      | Add your name here | Member | CAIPs discussion    |
 
 ## **Join the CASA**
