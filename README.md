@@ -68,6 +68,7 @@ Below, find a list of all members and their organizations.
 
 | Organizations                     | Members        | Status       | Working groups |
 | :-------------                    | :-----------   | :-----------   | :-----------   |
+| [Starname](https://starname.me/)      | Antoine Herzog | Maintainer | All Working groups    |
 | Add your organisation here      | Add your name here | Member | CAIPs discussion    |
 
 ## **Join the CASA**
