@@ -57,14 +57,14 @@ The CASA meetings note template may help keep stakeholders aligned.
 
 ### **List of working groups**
 
-| Working Group      | Status | Description | Repository | CAIP                                                                                                                                                           |
-| :----------------- | :----- | :---------- | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `CAIPs discussion` | Active | TBC         | TBC        | [All](https://github.com/ChainAgnostic/CAIPs)                                                                                                                  |
-| `Chain Id`         | Active | TBC         | TBC        | [CAIP-2](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-2.md)                                                                                   |
-| `Account Id`       | Active | TBC         | TBC        | [CAIP-10](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-10.md)                                                                                 |
-| `Asset Id`         | Active | TBC         | TBC        | [CAIP-19](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md)                                                                                 |
+| Working Group | Status | Description | Repository | CAIP |
+| :------------ | :----- | :---------- | :--------- | :--- |
+| `CAIPs discussion` | Active | TBC         | TBC        | [All](https://github.com/ChainAgnostic/CAIPs) |
+| `Chain Id`         | Active | TBC         | TBC        | [CAIP-2](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-2.md) |
+| `Account Id`       | Active | TBC         | TBC        | [CAIP-10](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-10.md) |
+| `Asset Id`         | Active | TBC         | TBC        | [CAIP-19](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md) |
 | `Json RPC`         | Active | TBC         | TBC        | [CAIP-24](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-24.md), [CAIP-25](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-25.md) |
-| `Asset Registry`   | Active | TBC         | TBC        | [CAIP-19](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md)                                                                                 |
+| `Asset Registry`   | Active | TBC         | TBC        | [CAIP-19](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md) |
 
 ### **How to form a new working group**
 
@@ -80,10 +80,10 @@ The CASA meetings note template may help keep stakeholders aligned.
 
 Below, please find a list of all members and their organizations.
 
-| Organizations                     | Members                                                                                                                                                              | Status     | Working groups     |
-| :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------- | :----------------- |
-| ChainAgnostic                     | Ligi ([@ligi](https://github.com/ligi)), Pedro Gomes ([@pedrouid](https://github.com/pedrouid)), Antoine Herzog ([@antoineherzog](https://github.com/antoineherzog)) | Maintainer | All Working groups |
-| [Epicenter](https://epicenter.tv) | [Sebastien Couture](<[@seb2point0](https://github.com/seb2point0)>)                                                                                                  | Member     | CAIPs discussion   |
+| Organizations | Members | Status | Working groups |
+| :------------ | :------ | :----- | :------------- |
+| ChainAgnostic | Ligi ([@ligi](https://github.com/ligi)), Pedro Gomes ([@pedrouid](https://github.com/pedrouid)), Antoine Herzog ([@antoineherzog](https://github.com/antoineherzog)) | Maintainer | All Working groups |
+| [Epicenter](https://epicenter.tv) | Sebastien Couture ([@seb2point0](https://github.com/seb2point0)) | Member     | CAIPs discussion   |
 
 <a name="Join"></a>
 
