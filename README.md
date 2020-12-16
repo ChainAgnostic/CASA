@@ -17,7 +17,7 @@ The Chain Agnostic Standards Alliance (CASA) is a collection of working groups d
 
 CASA is a self-organized and autonomous alliance of crypto-blockchain developers and enthusiasts. Its aim to create standards which support interoperability and facilitate communication between blockchain protocols, software and companies.
 
-CASA's organizes working groups where proposals are debated, drafted and submitted as CAIPs for the purpose implementation and community adoption.
+CASA organizes working groups where proposals are debated, drafted and submitted as CAIPs for the purpose implementation and community adoption.
 
 <a name="structure"></a>
 
