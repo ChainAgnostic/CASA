@@ -29,6 +29,7 @@ CASA participants are structured into three groups:
 | :------------- | :---------------------------------------------------------------------------------------------- |
 | Members        | All participants. Expected to participate in working groups.                                    |
 | Working Groups | Collections of members tackling specific areas of interest.                                     |
+| `CAIPs/` codeowners | Subset of authors of accepted CAIPs committed to ongoing review and maintainance of CAIPs |
 | Maintainers    | Members running CASA meetings (excluding working group) and ensuring overall process integrity. |
 
 <a name="meetings"></a>
@@ -37,13 +38,22 @@ CASA participants are structured into three groups:
 
 ### **CASA Meetings**
 
-All CASA stakeholders are invited to join a meeting every six weeks (attendance optional), for the purpose of:
+All CASA stakeholders are invited to join a meeting every two weeks, for the purpose of:
 
-- Sharing progress in individual working groups
-- Proposing the creation of new working groups
-- Evaluating CAIPs
+1. Evaluating CAIPs, registries, and related publications
+2. Sharing progress in individual working groups
+3. Proposing the creation of new working groups
 
-Since CASA meetings are primarily intended to sharing the working groups' progress, at least one member from each active working group is expected to attend.
+Since CASA meetings are primarily intended to sharing the working groups' progress, at least one member from each active working group is expected to attend, or entire working groups if the WG has topics agenda'd for a given meeting.
+
+#### **Explicit and Implicit Agendas**
+
+1. Explicit agenda items, if any have been set by issues in the `meetings/` repo (e.g., instance, a working group requests the whole community's input on a decision).
+1. Implicit agenda: PRs in the `CAIPs/` repo that have been marked as "next meeting" or "merge soon" by the `CAIPs/` codeowners and/or Maintainers.
+1. Implicit agenda: Issues in the `CAIPs/` repo that have been marked as "next meeting", as time allows.
+2. Housekeeping, agenda requests for the following meeting, and open discussion.
+
+*Note: the purpose of `next meeting` and `merge soon` tags is to allow codeowners to prioritize or stack-rank additions. Codeowners and the broader membership alike are requested to use them to prioritize them in their review process to allow swift review. Approval by any 2 codeowners is enough to apply a `merge soon` tag, which means the PR may be merged as-is as soon as the next meeting.*
 
 ### **Working Group Meetings**
 
