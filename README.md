@@ -51,7 +51,7 @@ Since CASA meetings are primarily intended to sharing the working groups' progre
 1. Explicit agenda items, if any have been set by issues in the `meetings/` repo (e.g., instance, a working group requests the whole community's input on a decision).
 1. Implicit agenda: PRs in the `CAIPs/` repo that have been marked as "next meeting" or "merge soon" by the `CAIPs/` codeowners and/or Maintainers.
 1. Implicit agenda: Issues in the `CAIPs/` repo that have been marked as "next meeting", as time allows.
-2. Housekeeping, agenda requests for the following meeting, and open discussion.
+1. Housekeeping, agenda requests for the following meeting, and open discussion.
 
 *Note: the purpose of `next meeting` and `merge soon` tags is to allow codeowners to prioritize or stack-rank additions. Codeowners and the broader membership alike are requested to use them to prioritize them in their review process to allow swift review. Approval by any 2 codeowners is enough to apply a `merge soon` tag, which means the PR may be merged as-is as soon as the next meeting.*
 
