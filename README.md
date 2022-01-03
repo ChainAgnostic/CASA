@@ -44,7 +44,7 @@ All CASA stakeholders are invited to join a meeting every two weeks, for the pur
 2. Sharing progress in individual working groups
 3. Proposing the creation of new working groups
 
-Since CASA meetings are primarily intended to sharing the working groups' progress, at least one member from each active working group is expected to attend, or entire working groups if the WG has topics agenda'd for a given meeting.
+Since CASA meetings are primarily intended to sharing the working groups progress, at least one member from each active working group is expected to attend, or entire working groups if the WG has topics agenda'd for a given meeting.
 
 #### **Explicit and Implicit Agendas**
 
