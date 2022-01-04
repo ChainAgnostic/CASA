@@ -38,7 +38,7 @@ CASA participants are structured into three groups:
 
 ### **CASA Meetings**
 
-All CASA stakeholders are invited to join a meeting every two weeks, for the purpose of:
+All CASA stakeholders are invited to join a meeting every four weeks, for the purpose of:
 
 1. Evaluating CAIPs, registries, and related publications
 2. Sharing progress in individual working groups
