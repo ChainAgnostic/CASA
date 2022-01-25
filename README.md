@@ -98,7 +98,7 @@ Below, please find a list of all members and their organizations.
 | [Ceramic](https://ceramic.network) | Joel Thorstensson ([@oed](https://github.com/oed)), Sergey Ukustov ([@ukstv](https://github.com/ukstv))  | Member | All Working groups |
 | [Spruce](https://spruceid.com) | Wayne Chang ([@wyc](https://github.com/wyc)), Gregory Rocco ([@obstropolos](https://github.com/obstropolos)) | Member | CAIPs discussion |
 | [Learning Proof UG](https://learningproof.xyz) | Juan Caballero ([@bumblefudge](https://github.com/bumblefudge)) | Maintainer | CAIPs |
-| [TBD](https://block.xyz) | Gabe Cohen ([@decentralgabe](https://github.com/decentralgabe)), Daniel Buchner ([@csuwildcat](https://github.com/csuwildcat)) | Member | All Working groups |
+| [Block](https://block.xyz) | Gabe Cohen ([@decentralgabe](https://github.com/decentralgabe)), Daniel Buchner ([@csuwildcat](https://github.com/csuwildcat)), Moe Jangda ([@mistermoe](https://github.com/mistermoe)) | Member | All Working groups |
 
 <a name="Join"></a>
 
