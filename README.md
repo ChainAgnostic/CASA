@@ -100,6 +100,7 @@ Below, please find a list of all members and their organizations.
 | [Learning Proof UG](https://learningproof.xyz) | Juan Caballero ([@bumblefudge](https://github.com/bumblefudge)) | Maintainer | CAIPs |
 | [Block](https://block.xyz) | Gabe Cohen ([@decentralgabe](https://github.com/decentralgabe)), Daniel Buchner ([@csuwildcat](https://github.com/csuwildcat)), Moe Jangda ([@mistermoe](https://github.com/mistermoe)) | Member | All Working groups |
 | [SKALE Network](https://skale.network) | Chadwick Strange ([@cstrangedk](https://github.com/cstrangedk)) | Member | All Working Groups |
+| [Metagov](https://metagov.org) | Joshua Tan ([@thelastjosh](https://github.com/thelastjosh)) | Member | All Working Groups |
 
 <a name="Join"></a>
 
