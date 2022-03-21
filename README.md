@@ -102,6 +102,7 @@ Below, please find a list of all members and their organizations.
 | [SKALE Network](https://skale.network) | Chadwick Strange ([@cstrangedk](https://github.com/cstrangedk)) | Member | All Working Groups |
 | [Metagov](https://metagov.org) | Joshua Tan ([@thelastjosh](https://github.com/thelastjosh)) | Member | All Working Groups |
 | [kycDAO](https://kycdao.xyz) | Balázs Némethi ([@nembal](https://github.com/nembal)) | Member | All Working Groups |
+| [cheqd](https://www.cheqd.io/) | Ross Power ([@rosspower11](https://github.com/rosspower11)) | Member | All Working Groups |
 
 
 <a name="Join"></a>
