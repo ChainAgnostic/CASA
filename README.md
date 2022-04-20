@@ -103,6 +103,7 @@ Below, please find a list of all members and their organizations.
 | [Metagov](https://metagov.org) | Joshua Tan ([@thelastjosh](https://github.com/thelastjosh)) | Member | All Working Groups |
 | [kycDAO](https://kycdao.xyz) | Balázs Némethi ([@nembal](https://github.com/nembal)) | Member | All Working Groups |
 | [cheqd](https://www.cheqd.io/) | Ross Power ([@rosspower11](https://github.com/rosspower11)) | Member | All Working Groups |
+| [Fission](https://fission.codes/) | Boris Mann ([@bmann](https://github.com/bmann)), Brooklyn Zelenka ([@expede](https://github.com/expede)) | Member | All Working Groups |
 
 
 <a name="Join"></a>
