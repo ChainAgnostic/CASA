@@ -105,6 +105,7 @@ Below, please find a list of all members and their organizations.
 | [cheqd](https://www.cheqd.io/) | Ross Power ([@rosspower11](https://github.com/rosspower11)) | Member | All Working Groups |
 | [Fission](https://fission.codes/) | Boris Mann ([@bmann](https://github.com/bmann)), Brooklyn Zelenka ([@expede](https://github.com/expede)) | Member | All Working Groups |
 | [Danube Tech](https://danubetech.com/) | Markus Sabadello ([@peacekeeper](https://github.com/peacekeeper)) | Member | All Working Groups |
+| [Obvious](https://obvious.technology/) | Jebu Ittiachen ([@jebu](https://github.com/jebu)) | Member | All Working Groups |
 
 
 <a name="Join"></a>
