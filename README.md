@@ -106,6 +106,7 @@ Below, please find a list of all members and their organizations.
 | [Fission](https://fission.codes/) | Boris Mann ([@bmann](https://github.com/bmann)), Brooklyn Zelenka ([@expede](https://github.com/expede)) | Member | All Working Groups |
 | [Danube Tech](https://danubetech.com/) | Markus Sabadello ([@peacekeeper](https://github.com/peacekeeper)) | Member | All Working Groups |
 | [Obvious](https://obvious.technology/) | Jebu Ittiachen ([@jebu](https://github.com/jebu)) | Member | All Working Groups |
+| [Dynamic](https://www.dynamic.xyz/) | Itai Turbahn ([@turbahn](https://github.com/turbahn)), Paolo Lim ([@paololim](https://github.com/paololim)) | Member | All Working Groups |
 
 
 <a name="Join"></a>
