@@ -107,6 +107,7 @@ Below, please find a list of all members and their organizations.
 | [Danube Tech](https://danubetech.com/) | Markus Sabadello ([@peacekeeper](https://github.com/peacekeeper)) | Member | All Working Groups |
 | [Obvious](https://obvious.technology/) | Jebu Ittiachen ([@jebu](https://github.com/jebu)) | Member | All Working Groups |
 | [Dynamic](https://www.dynamic.xyz/) | Itai Turbahn ([@turbahn](https://github.com/turbahn)), Paolo Lim ([@paololim](https://github.com/paololim)) | Member | All Working Groups |
+| [Notabene](https://www.notabene.id/) | Andrés Junge ([@ajunge](https://github.com/ajunge)) | Member | All Working Groups |
 
 
 <a name="Join"></a>
