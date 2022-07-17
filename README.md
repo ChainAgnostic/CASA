@@ -114,8 +114,6 @@ Below, please find a list of all members and their organizations.
 
 ## **Join CASA**
 
-CASA will begin meetings in 2021 as we wait for the initial working groups to form.
-
-1. Submit a Pull Request to this repository adding yourself as a member in the table above.
+Submit a Pull Request to this repository adding yourself as a member in the table above.
 
 Once a maintainer has confirmed you have completed this step, they will merge your PR and send you a welcome email containing your invitations to the **CASA Call Calendar** and **Discord**.
