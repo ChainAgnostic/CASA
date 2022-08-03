@@ -116,4 +116,9 @@ Below, please find a list of all members and their organizations.
 
 Submit a Pull Request to this repository adding yourself as a member in the table above.
 
-Once a maintainer has confirmed you have completed this step, they will merge your PR.  We recommend checking that your GH email is up-to-date and "Watching" all issues and pull requests in the /CASA/  repo, as well as /namespaces/ and/or /CAIPs/ to stay up-to-date on editorial and in-person meetings.
+Once a maintainer has confirmed you have completed this step, they will merge your PR.  We recommend checking that your Github email is up-to-date and you are "Watching" these repos:
+ *  [Gatherings](https://github.com/ChainAgnostic/Gatherings) to stay up to date with in person gatherings
+ * [CASA](https://github.com/ChainAgnostic/CASA)  to stay up to date with the organisation and scheduled calls
+  * [CAIPs](https://github.com/ChainAgnostic/CAIPs)
+  * [namespaces](https://github.com/ChainAgnostic/namespaces)
+
