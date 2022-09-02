@@ -109,6 +109,7 @@ Below, please find a list of all members and their organizations.
 | [Dynamic](https://www.dynamic.xyz/) | Itai Turbahn ([@turbahn](https://github.com/turbahn)), Paolo Lim ([@paololim](https://github.com/paololim)) | Member | All Working Groups |
 | [Notabene](https://www.notabene.id/) | Andrés Junge ([@ajunge](https://github.com/ajunge)) | Member | All Working Groups |
 | [Ledger](https://www.ledger.com/) | Rod Carraresi ([@carraresi](https://github.com/carraresi)) | Member | All Working Groups |
+| [ITSA](https://www.itsa.global/) | Valentin Seehausen ([@valleXYZ](https://github.com/valentin-seehausen)) | Member | All Working Groups |
 
 <a name="Join"></a>
 
