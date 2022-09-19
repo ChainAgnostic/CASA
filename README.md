@@ -111,6 +111,7 @@ Below, please find a list of all members and their organizations.
 | [Ledger](https://www.ledger.com/) | Rod Carraresi ([@carraresi](https://github.com/carraresi)) | Member | All Working Groups |
 | [ITSA](https://www.itsa.global/) | Valentin Seehausen ([@valleXYZ](https://github.com/valentin-seehausen)) | Member | All Working Groups |
 | [Protocol Labs](https://protocol.ai/) | Eva Shon ([@eshon](https://github.com/eshon)) | Member | All Working Groups |
+| [Fireblocks](https://www.fireblocks.com/) | Oren Yomtov ([@orenyomtov](https://github.com/orenyomtov)), Arik Galansky ([@arikg](https://github.com/arikg)) | Member | All Working Groups |
 
 <a name="Join"></a>
 
