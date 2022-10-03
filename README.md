@@ -112,7 +112,7 @@ Below, please find a list of all members and their organizations.
 | [ITSA](https://www.itsa.global/) | Valentin Seehausen ([@valleXYZ](https://github.com/valentin-seehausen)) | Member | All Working Groups |
 | [Protocol Labs](https://protocol.ai/) | Eva Shon ([@eshon](https://github.com/eshon)) | Member | All Working Groups |
 | [Fireblocks](https://www.fireblocks.com/) | Oren Yomtov ([@orenyomtov](https://github.com/orenyomtov)), Arik Galansky ([@arikg](https://github.com/arikg)) | Member | All Working Groups |
-| [MetaMask](https://metamask.io/) | Erik Marks ([@rekmarks](https://github.com/rekmarks)) | Member | All Working Groups |
+| [MetaMask](https://metamask.io/) | Erik Marks ([@rekmarks](https://github.com/rekmarks)), Olaf Tomalka ([@ritave](https://github.com/ritave)) | Member | All Working Groups |
 
 <a name="Join"></a>
 
