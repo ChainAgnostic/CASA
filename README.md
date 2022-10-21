@@ -113,6 +113,7 @@ Below, please find a list of all members and their organizations.
 | [Protocol Labs](https://protocol.ai/) | Eva Shon ([@eshon](https://github.com/eshon)) | Member | All Working Groups |
 | [Fireblocks](https://www.fireblocks.com/) | Oren Yomtov ([@orenyomtov](https://github.com/orenyomtov)), Arik Galansky ([@arikg](https://github.com/arikg)) | Member | All Working Groups |
 | [MetaMask](https://metamask.io/) | Erik Marks ([@rekmarks](https://github.com/rekmarks)), Olaf Tomalka ([@ritave](https://github.com/ritave)) | Member | All Working Groups |
+| [Shovel Company](https://shovel.company/) | Prashant Mittal ([@prashant3863](https://github.com/prashant3863)) | Member | All Working Groups |
 
 <a name="Join"></a>
 
