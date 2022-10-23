@@ -6,8 +6,10 @@ The Chain Agnostic Standards Alliance (CASA) is a collection of working groups d
 
 - [Purpose](#purpose)
 - [Organizational Structure](#structure)
-- [Meetings](#meetings)
+- [Regular Meetings](#regular-meetings)
 - [Working Groups](#groups)
+- [Explicit and Implicit Agendas](#explicit-and-implicit-agendas)
+- [Discord Server](#discord-server)
 - [Members](#members)
 - [Join CASA](#join)
 
@@ -27,24 +29,17 @@ CASA participants are structured into three groups:
 
 | Role           | Description                                                                                     |
 | :------------- | :---------------------------------------------------------------------------------------------- |
-| Members        | All participants. Expected to participate in working groups.                                    |
-| Working Groups | Collections of members tackling specific areas of interest.                                     |
-| `CAIPs/` codeowners | Subset of authors of accepted CAIPs committed to ongoing review and maintainance of CAIPs |
-| Maintainers    | Members running CASA meetings (excluding working group) and ensuring overall process integrity. |
+| Members        | All participants who contribute in any form, including github review. Expected to participate in one or more topical working groups. |
+| Working Groups | Topical clusters of CAIPs and namespaces. These change over time according to activity          |
+| Editoral board/"Codeowners" | A subset of membership including the authors of accepted CAIPs committed to ongoing review and maintainance of the CAIPs and namespaces |
 
 <a name="meetings"></a>
 
-## **Meetings**
+### **Regular Meetings**
 
-### **CASA Meetings**
+All CASA stakeholders are invited to join our regular editorial meetings every four weeks, as well as regular meetings of the more focused topical working groups, which meet every 2 or every 4 weeks depending on the consensus of the group. These take place on jitsi, and a calendar can be found [here](https://bit.ly/thepubliccasacalendar) (also [here](https://bit.ly/thecasacalendar) for Google Calendar users). Where possible, high-level minutes are taken, and entered into the notes as [closed issues](https://github.com/ChainAgnostic/CASA/issues?q=is%3Aissue+is%3Aclosed) on this repo.
 
-All CASA stakeholders are invited to join a meeting every four weeks, for the purpose of:
-
-1. Evaluating CAIPs, registries, and related publications
-2. Sharing progress in individual working groups
-3. Proposing the creation of new working groups
-
-Since CASA meetings are primarily intended to sharing the working groups progress, at least one member from each active working group is expected to attend, or entire working groups if the WG has topics agenda'd for a given meeting.
+We also have periodic in-person meetings, to onboard new participants and, where possible, to advance working group progress. For information on these, see the `Gatherings` repository.
 
 #### **Explicit and Implicit Agendas**
 
@@ -55,26 +50,24 @@ Since CASA meetings are primarily intended to sharing the working groups progres
 
 *Note: the purpose of the `next meeting` tag is to allow codeowners to prioritize or stack-rank additions. Codeowners and the broader membership alike are requested to use them to prioritize them in their review process to allow swift review. Approval by any 2 codeowners is enough to merge at a future meeting. In cases where a timely merge is desired, codeowners may also chose to apply a `merge soon` tag, which is a way of requesting more review for an approved PR (and avoid a valid PR sitting unmerged across multiple meetings for lack of discussion).*
 
-### **Working Group Meetings**
+## **Discord Server**
 
-CASA members self-organize into topic-specific working groups. Individual working groups set their own meeting schedule and communicate in designated communication channels. We expect working groups to meet frequently enough to share their progress at CASA meetings.
-
-The CASA meetings note template may help keep stakeholders aligned.
-
-<a name="groups"></a>
+For those who prefer realtime/social-style communications, we also run a Discord server, which is secondary and non-archival-- it can be found using [this Discord invite link](https://discord.gg/-remove-this-KxqKHppC39) _(note: this link has a spam/crawler deterrent that requires manual removal)_.
 
 ## **Working Groups**
 
 ### **List of working groups**
 
-| Working Group | Status | Description | Repository | CAIP |
-| :------------ | :----- | :---------- | :--------- | :--- |
-| `CAIPs discussion` | Active | TBC         | TBC        | [All](https://github.com/ChainAgnostic/CAIPs) |
-| `Chain Id`         | Active | TBC         | TBC        | [CAIP-2](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-2.md) |
-| `Account Id`       | Active | TBC         | TBC        | [CAIP-10](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-10.md) |
-| `Asset Id`         | Active | TBC         | TBC        | [CAIP-19](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md) |
-| `Json RPC`         | Active | TBC         | TBC        | [CAIP-24](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-24.md), [CAIP-25](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-25.md) |
-| `Asset Registry`   | Active | TBC         | TBC        | [CAIP-19](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md) |
+| Working Group | Status | Description | 
+| :------------ | :----- | :---------- | 
+| `CAIPs discussion` | Standing | CAIPs are always being iterated and refined and introduced! | 
+| `Json RPC`         | Active | Feature discovery and "session" model for dApps and wallets  | 
+| `Browser Security` | Active | Working within the Browser protocols and data models | 
+| `CACAOs & AuthZ`     | Active | Authorization models and token/receipt formats for Web3 | 
+| `Chain Id`         | Inactive | TBC         | 
+| `Account Id`       | Inactive | TBC         | 
+| `Asset Id`         | Inactive | TBC         | 
+| `Asset Registry`   | Inactive | TBC         | 
 
 ### **How to form a new working group**
 
