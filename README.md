@@ -37,7 +37,7 @@ CASA participants are structured into three groups:
 
 ### **Regular Meetings**
 
-All CASA stakeholders are invited to join our regular editorial meetings every four weeks, as well as regular meetings of the more focused topical working groups, which meet every 2 or every 4 weeks depending on the consensus of the group.  These take place on jitsi, and a calendar can be found [here](https://bit.ly/thepubliccasacalendar) (also [here](https://bit.ly/thecasacalendar) for Google Calendar users).
+All CASA stakeholders are invited to join our regular editorial meetings every four weeks, as well as regular meetings of the more focused topical working groups, which meet every 2 or every 4 weeks depending on the consensus of the group.  These take place on jitsi, and a calendar can be found [here](https://bit.ly/thepubliccasacalendar) (also [here](https://bit.ly/thecasacalendar) for Google Calendar users).  Where possible, high-level minutes are taken, and entered into the notes as [closed issues](https://github.com/ChainAgnostic/CASA/issues?q=is%3Aissue+is%3Aclosed) on this repo.
 
 We also have periodic in-person meetings, to onboard new participants and, where possible, to advance working group progress.  For information on these, see the `Gatherings` repository.
 
