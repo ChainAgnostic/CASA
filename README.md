@@ -7,11 +7,11 @@ The Chain Agnostic Standards Alliance (CASA) is a collection of working groups d
 - [Purpose](#purpose)
 - [Organizational Structure](#structure)
 - [Regular Meetings](#regular-meetings)
-- [Working Groups](#groups)
+- [Working Groups](#working-groups)
 - [Explicit and Implicit Agendas](#explicit-and-implicit-agendas)
 - [Discord Server](#discord-server)
 - [Members](#members)
-- [Join CASA](#join)
+- [Join CASA](#join-casa)
 
 <a name="purpose"></a>
 
