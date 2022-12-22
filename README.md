@@ -5,11 +5,11 @@ The Chain Agnostic Standards Alliance (CASA) is a collection of working groups d
 ### **Table of Contents**
 
 - [Purpose](#purpose)
-- [Organizational Structure](#structure)
 - [Regular Meetings](#regular-meetings)
-- [Working Groups](#groups)
 - [Explicit and Implicit Agendas](#explicit-and-implicit-agendas)
 - [Discord Server](#discord-server)
+- [Working Groups](#groups)
+- [Organizational Structure](#structure)
 - [Members](#members)
 - [Join CASA](#join)
 
@@ -23,19 +23,7 @@ CASA organizes working groups where proposals are debated, drafted and submitted
 
 <a name="structure"></a>
 
-## **Organizational Structure**
-
-CASA participants are structured into three groups:
-
-| Role           | Description                                                                                     |
-| :------------- | :---------------------------------------------------------------------------------------------- |
-| Members        | All participants who contribute in any form, including github review. Expected to participate in one or more topical working groups. |
-| Working Groups | Topical clusters of CAIPs and namespaces. These change over time according to activity          |
-| Editoral board/"Codeowners" | A subset of membership including the authors of accepted CAIPs committed to ongoing review and maintainance of the CAIPs and namespaces |
-
-<a name="meetings"></a>
-
-### **Regular Meetings**
+## **Regular Meetings**
 
 All CASA stakeholders are invited to join our regular editorial meetings every four weeks, as well as regular meetings of the more focused topical working groups, which meet every 2 or every 4 weeks depending on the consensus of the group. These take place on jitsi, and a calendar can be found [here](https://bit.ly/thepubliccasacalendar) (also [here](https://bit.ly/thecasacalendar) for Google Calendar users). Where possible, high-level minutes are taken, and entered into the notes as [closed issues](https://github.com/ChainAgnostic/CASA/issues?q=is%3Aissue+is%3Aclosed) on this repo.
 
@@ -77,7 +65,29 @@ For those who prefer realtime/social-style communications, we also run a Discord
 4. Propose your working group at the next CASA meeting. If approved, your PR will be merged, and your working group meeting schedule will be added to the CASA calendar.
 5. Recruit participants for your working group.
 
-<a name="members"></a>
+## **Organizational Structure**
+
+CASA participants are structured into three groups:
+
+| Role           | Description                                                                                     |
+| :------------- | :---------------------------------------------------------------------------------------------- |
+| Members        | All participants who contribute in any form, including github review. Expected to participate in one or more topical working groups. |
+| Working Groups | Topical clusters of CAIPs and namespaces. These change over time according to activity          |
+| Editors/"Codeowners" | A subset of membership including the authors of accepted CAIPs committed to ongoing review and maintainance of the CAIPs and namespaces |
+| Board | Governing/steering body of core members guiding the organization and making high-level strategic decisions about its execution of its mission |
+| Executive Director | Drive and oversee operations, budget, editorial processes, and events |
+| Treasurer (proposed) | Oversight and reporting on any external grants or donations |
+
+### Current Board Membership
+
+- Pedro Gomes @pedrouid (WalletConnect Founder),
+- Ligi @ligi (Independent),
+- Joel Thorstenssen @oed (Ceramic Founder),
+- Gregory Rocco @obstropolos (Spruce Founder),
+- Olaf Tomalka @ritave (MetaMask Snaps Lead),
+- Boris Mann @bmann (Fission Founder),
+- Chairman/Tiebreaker: Juan Caballero @bumblefudge (Acting Executive Director, Independent)
+Note that we tried (but failed) to find more info from the CASA website on the above.
 
 ## **Members**
 
