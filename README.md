@@ -87,7 +87,6 @@ CASA participants are structured into three groups:
 - Olaf Tomalka @ritave (MetaMask Snaps Lead),
 - Boris Mann @bmann (Fission Founder),
 - Chairman/Tiebreaker: Juan Caballero @bumblefudge (Acting Executive Director, Independent)
-Note that we tried (but failed) to find more info from the CASA website on the above.
 
 ## **Members**
 
