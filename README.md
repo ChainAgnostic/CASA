@@ -11,17 +11,14 @@ The Chain Agnostic Standards Alliance (CASA) is a collection of working groups d
 - [Working Groups](#groups)
 - [Organizational Structure](#structure)
 - [Members](#members)
-- [Join CASA](#join)
+- [Join CASA](#join-casa)
 
-<a name="purpose"></a>
 
 ## **Purpose**
 
 CASA is a self-organized and autonomous alliance of crypto-blockchain developers and enthusiasts. Its aim to create standards which support interoperability and facilitate communication between blockchain protocols, software and companies.
 
 CASA organizes working groups where proposals are debated, drafted and submitted as CAIPs for the purpose implementation and community adoption.
-
-<a name="structure"></a>
 
 ## **Regular Meetings**
 
@@ -117,9 +114,6 @@ Below, please find a list of all members and their organizations.
 | [MetaMask](https://metamask.io/) | Erik Marks ([@rekmarks](https://github.com/rekmarks)), Olaf Tomalka ([@ritave](https://github.com/ritave)) | Member | All Working Groups |
 | [Shovel Company](https://shovel.company/) | Prashant Mittal ([@prashant3863](https://github.com/prashant3863)) | Member | All Working Groups |
 | [Status](https://status.im/) | Anthony Laibe ([@alaibe](https://github.com/alaibe)), Iuri Matias ([@iurimatias](https://github.com/iurimatias)), John ([@john-44](https://github.com/john-44)) | Member | All Working Groups |
-
-
-<a name="Join"></a>
 
 ## **Join CASA**
 
