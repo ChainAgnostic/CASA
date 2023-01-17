@@ -6,8 +6,8 @@ The Chain Agnostic Standards Alliance (CASA) is a collection of working groups d
 - [**Chain Agnostic Standards Alliance**](#chain-agnostic-standards-alliance)
     - [**Table of Contents**](#table-of-contents)
   - [**Purpose**](#purpose)
-  - [**Regular Meetings**](#regular-meetings)
-      - [**Explicit and Implicit Agendas**](#explicit-and-implicit-agendas)
+  - [**Meetings**](#meetings)
+    - [**Explicit and Implicit Agendas**](#explicit-and-implicit-agendas)
   - [**Discord Server**](#discord-server)
   - [**Working Groups**](#working-groups)
     - [**List of working groups**](#list-of-working-groups)
@@ -24,20 +24,19 @@ CASA is a self-organized and autonomous alliance of crypto-blockchain developers
 
 CASA organizes working groups where proposals are debated, drafted and submitted as CAIPs for the purpose implementation and community adoption.
 
-## **Regular Meetings**
+## **Meetings**
 
-All CASA stakeholders are invited to join our regular editorial meetings every four weeks, as well as regular meetings of the more focused topical working groups, which meet every 2 or every 4 weeks depending on the consensus of the group. These take place on jitsi, and a calendar can be found [here](https://bit.ly/thepubliccasacalendar) (also [here](https://bit.ly/thecasacalendar) for Google Calendar users). Where possible, high-level minutes are taken, and entered into the notes as [closed issues](https://github.com/ChainAgnostic/CASA/issues?q=is%3Aissue+is%3Aclosed) on this repo.
+All CASA meetings are open to the public, and non-members are welcome to attend respectfully/non-disruptively.  In particular, the `editorial` meetings are a good on-boarding and overview of all the more specific workstreams and conversations happening in parallel.
 
-We also have periodic in-person meetings, to onboard new participants and, where possible, to advance working group progress. For information on these, see the `Gatherings` repository.
+Meetings can be seen on the `https://bit.ly/` links `thecasacalendar` (subscribeable via Google) and `thepubliccasacalendar` (display-only).  See individual events for teleconferencing links and agenda links.
 
-#### **Explicit and Implicit Agendas**
+### **Explicit and Implicit Agendas**
 
-1. Explicit agenda items, if any have been set by issues in the `meetings/` repo (e.g., instance, a working group requests the whole community's input on a decision).
-1. Implicit agenda: PRs in the `CAIPs/` repo that have been marked as "next meeting" or "merge soon" by the `CAIPs/` codeowners and/or Maintainers.
-1. Implicit agenda: Issues in the `CAIPs/` repo that have been marked as "next meeting", as time allows.
-1. Housekeeping, agenda requests for the following meeting, and open discussion.
+1. Explicit agenda items, if any have been set by WG participants, can be found linked from events pages on the calendar.
+1. The implicit agenda, in addition to or absence of explicit agenda, is to review outstanding/mergeable PRs, active issues, draft PRs, and topics of general interest, in that order.  
+1. Chairs or facilitators should always leave time for housekeeping, agenda requests for the following meeting, and open discussion.
 
-*Note: the purpose of the `next meeting` tag is to allow codeowners to prioritize or stack-rank additions. Codeowners and the broader membership alike are requested to use them to prioritize them in their review process to allow swift review. Approval by any 2 codeowners is enough to merge at a future meeting. In cases where a timely merge is desired, codeowners may also chose to apply a `merge soon` tag, which is a way of requesting more review for an approved PR (and avoid a valid PR sitting unmerged across multiple meetings for lack of discussion).*
+*Note: the purpose of the `next meeting` tag is to allow codeowners to prioritize or stack-rank additions. Codeowners and the broader membership alike are requested to use them to prioritize them in their review process to allow swift review. Approval by any 2 codeowners is enough to merge at a future meeting. In cases where a timely merge is desired, codeowners may also chose to apply a `14-day merge` tag, which is a way of requesting more review for an approved PR (and to avoid a valid PR sitting unmerged across multiple meetings for lack of discussion).*
 
 ## **Discord Server**
 
