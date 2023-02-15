@@ -20,15 +20,15 @@ The Chain Agnostic Standards Alliance (CASA) is a collection of working groups d
 
 ## **Purpose**
 
-CASA is a self-organized and autonomous alliance of crypto-blockchain developers and enthusiasts. Its aim to create standards which support interoperability and facilitate communication between blockchain protocols, software and companies.
+CASA is a self-organized and autonomous alliance of crypto-blockchain developers and enthusiasts. Its aim is to create standards which support interoperability and facilitate communication between blockchain protocols, software and companies.
 
 CASA organizes working groups where proposals are debated, drafted and submitted as CAIPs for the purpose implementation and community adoption.
 
 ## **Meetings**
 
-All CASA meetings are open to the public, and non-members are welcome to attend respectfully/non-disruptively.  In particular, the `editorial` meetings are a good on-boarding and overview of all the more specific workstreams and conversations happening in parallel.
+All CASA meetings are open to the public, and non-members are welcome to attend respectfully/non-disruptively.  In particular, the `editorial` meetings are a good onboarding and overview of all the more specific workstreams and conversations happening in parallel.
 
-Meetings can be seen on the `https://bit.ly/` links `thecasacalendar` (subscribeable via Google) and `thepubliccasacalendar` (display-only).  See individual events for teleconferencing links and agenda links.
+Meetings can be seen on the `https://bit.ly/` links `thecasacalendar` (subscribable via Google) and `thepubliccasacalendar` (display-only).  See individual events for teleconferencing links and agenda links.
 
 ### **Explicit and Implicit Agendas**
 
@@ -36,7 +36,7 @@ Meetings can be seen on the `https://bit.ly/` links `thecasacalendar` (subscribe
 1. The implicit agenda, in addition to or absence of explicit agenda, is to review outstanding/mergeable PRs, active issues, draft PRs, and topics of general interest, in that order.  
 1. Chairs or facilitators should always leave time for housekeeping, agenda requests for the following meeting, and open discussion.
 
-*Note: the purpose of the `next meeting` tag is to allow codeowners to prioritize or stack-rank additions. Codeowners and the broader membership alike are requested to use them to prioritize them in their review process to allow swift review. Approval by any 2 codeowners is enough to merge at a future meeting. In cases where a timely merge is desired, codeowners may also chose to apply a `14-day merge` tag, which is a way of requesting more review for an approved PR (and to avoid a valid PR sitting unmerged across multiple meetings for lack of discussion).*
+*Note: the purpose of the `next meeting` tag is to allow codeowners to prioritize or stack-rank additions. Codeowners and the broader membership alike are requested to use them to prioritize them in their review process to allow swift review. Approval by any 2 codeowners is enough to merge at a future meeting. In cases where a timely merge is desired, codeowners may also choose to apply a `14-day merge` tag, which is a way of requesting more review for an approved PR (and to avoid a valid PR sitting unmerged across multiple meetings for lack of discussion).*
 
 ## **Discord Server**
 
@@ -70,7 +70,7 @@ CASA participants are structured into three groups:
 | :------------- | :---------------------------------------------------------------------------------------------- |
 | Members        | All participants who contribute in any form, including github review. Expected to participate in one or more topical working groups. |
 | Working Groups | Topical clusters of CAIPs, namespaces, and other repositories/workstreams. These change over time according to activity |
-| Editorial Working Group | A subset of membership including the authors of accepted CAIPs committed to ongoing review and maintainance of the CAIPs and namespaces |
+| Editorial Working Group | A subset of membership including the authors of accepted CAIPs committed to ongoing review and maintenance of the CAIPs and namespaces |
 | Board | Governing/steering body of core members guiding the organization and making high-level strategic decisions about its execution of its mission |
 | Executive Director (Board Member) | Drive and oversee operations, budget, editorial processes, and events |
 | Treasurer (Board Member) | Oversight and reporting on any external grants or donations |
