@@ -115,6 +115,7 @@ Below, please find a list of all members and their organizations.
 | [MetaMask](https://metamask.io/) | Erik Marks ([@rekmarks](https://github.com/rekmarks)), Olaf Tomalka ([@ritave](https://github.com/ritave)) | Member | All Working Groups |
 | [Shovel Company](https://shovel.company/) | Prashant Mittal ([@prashant3863](https://github.com/prashant3863)) | Member | All Working Groups |
 | [Status](https://status.im/) | Anthony Laibe ([@alaibe](https://github.com/alaibe)), Iuri Matias ([@iurimatias](https://github.com/iurimatias)), John ([@john-44](https://github.com/john-44)) | Member | All Working Groups |
+| [Fetcch](https://fetcch.xyz/) | Satyam Kulkarni ([@sk1122](https://github.com/sk1122)), Mandar Dange ([@mandarr-source](https://github.com/mandarr-source)) | Member | All Working Groups |
 | [Attestate](https://attestate.com) | Tim Daubenschütz ([@timdaub](https://github.com/timdaub)) | Member | All Working Groups |
 
 ## **Join CASA**
