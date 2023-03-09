@@ -86,6 +86,8 @@ CASA participants are structured into three groups:
 - Boris Mann @bmann (Fission Founder),
 - Chairman/Tiebreaker: Juan Caballero @bumblefudge (Acting Executive Director, Independent)
 
+The Board member above directly control a [multi-signature "vault"](https://app.safe.global/home?safe=eth:0xEDA75C4e519FD27d7d28B7F20be407435fb74e2d) for transparent, on-chain grant reporting and other disbursements.
+
 ## **Members**
 
 Below, please find a list of all members and their organizations.
