@@ -120,6 +120,7 @@ Below, please find a list of all members and their organizations.
 | [Fetcch](https://fetcch.xyz/) | Satyam Kulkarni ([@sk1122](https://github.com/sk1122)), Mandar Dange ([@mandarr-source](https://github.com/mandarr-source)) | Member | All Working Groups |
 | [Attestate](https://attestate.com) | Tim Daubenschütz ([@timdaub](https://github.com/timdaub)) | Member | All Working Groups |
 | [KILT Protocol](https://kilt.io) | Antonio Antonino ([@ntn-x2](https://github.com/ntn-x2)) | Member | All Working Groups |
+| [Everyname](https://everyname.xyz) | Vinay Vasanji ([@iamvkv](https://github.com/iamvkv)) | Member | All Working Groups |
 
 ## **Join CASA**
 
