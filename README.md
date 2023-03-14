@@ -89,7 +89,7 @@ CASA participants are structured into three groups:
 The Board members above directly control a [multi-signature "vault"](https://app.safe.global/home?safe=eth:0xEDA75C4e519FD27d7d28B7F20be407435fb74e2d) for transparent, on-chain grant reporting and other disbursements. Respectively, the addresses with which they control the safe are:
 - eip155:1:0xcBec15583A21C3ddAD5fab658be5b4FE85Df730b
 - eip155:1:0x0402c3407dcBD476C3d2Bbd80d1b375144bAF4a2
-- eip155:1:0x5c44E8982fa3C3239C6E3C5be2cc6663c7C9387E
+- eip155:1:0x9fA6c303300ed23CeFB0b1106aE898810DC01cC3
 - eip155:1:0x4Aa43327b1a7c60D6570F8692339EFC1f46bdF85
 - eip155:1:0xd6CE8bCa06795CC1711DFd4927A6EBde6C86F1E2
 - eip155:1:0xA8C7372dC993d7510C9c45425807d463967cbb12
