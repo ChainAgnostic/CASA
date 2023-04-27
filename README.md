@@ -121,6 +121,7 @@ Below, please find a list of all members and their organizations.
 | [Attestate](https://attestate.com) | Tim Daubenschütz ([@timdaub](https://github.com/timdaub)) | Member | All Working Groups |
 | [KILT Protocol](https://kilt.io) | Antonio Antonino ([@ntn-x2](https://github.com/ntn-x2)) | Member | All Working Groups |
 | [Everyname](https://everyname.xyz) | Vinay Vasanji ([@iamvkv](https://github.com/iamvkv)) | Member | All Working Groups |
+| [vDL Digital Ventures GmbH](https://vdl.digital/) | Carlo van Driesten ([@jdsika](https://github.com/jdsika)), Roy Scheeren ([@royscheeren](https://github.com/royscheeren)) | Member | All Working Groups |
 
 ## **Join CASA**
 
