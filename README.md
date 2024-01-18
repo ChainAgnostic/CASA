@@ -40,7 +40,7 @@ Meetings can be seen on the `https://bit.ly/` links `thecasacalendar` (subscriba
 
 ## **Discord Server**
 
-For those who prefer realtime/social-style communications, we also run a Discord server, which is secondary and non-archival-- it can be found using [this Discord invite link](https://discord.gg/-remove-this-KxqKHppC39) _(note: this link has a spam/crawler deterrent that requires manual removal)_.
+For those who prefer realtime/social-style communications, we also run a Discord server, which is secondary and non-archival-- it can be found using [this Discord invite link](https://discord.gg/-remove-this-KxqKHppC39) _(note: this link has a spam/crawler deterrent that requires manual removal - please make sure to review the URL)_.
 
 ## **Working Groups**
 
@@ -48,9 +48,9 @@ For those who prefer realtime/social-style communications, we also run a Discord
 
 | Working Group | Scope | Meeting Frequency | Chair |
 | :------------ | :----- | :----- | :----- |
-| `Editorial` | New CAIPs and Namespaces | every 4 weeks | @obstropolos |
+| `Editorial` | New CAIPs and Namespaces | every 4 weeks | @bumblefudge |
 | `Addressing` | CAIP-2, -10, -19; URN/URI systems | Sporadic/By request | @bumblefudge |
-| `Json RPC`  | CAIP-25, -27 | Sporadic/By request | @hmalik88 |
+| `JSON-RPC`  | CAIP-25, -27 | Sporadic/By request | @hmalik88 |
 | `CACAO/AuthZ` | CAIP-74, -122, -168; [varint]() & [multidid](), interop with UCAN and ZCAP-LD | every 4 weeks | @bumblefudge/TBD | 
 | `Browser Security` | CAIP-169, -171 | Sporadic/By request | @kdenhartog |
 | *Secure Design* | UX<>Security, Privacy | every 4 weeks | @depatchedmode | 
@@ -82,7 +82,7 @@ CASA participants are structured into three groups:
 - Pedro Gomes @pedrouid (WalletConnect Founder) - `eip155:1:0xcBec15583A21C3ddAD5fab658be5b4FE85Df730b`
 - Ligi @ligi (Independent) - `eip155:1:0x0402c3407dcBD476C3d2Bbd80d1b375144bAF4a2`
 - Joel Thorstenssen @oed (Ceramic Founder) - `eip155:1:0x9fA6c303300ed23CeFB0b1106aE898810DC01cC3`
-- Gregory Rocco @obstropolos (Spruce Founder) - `eip155:1:0x4Aa43327b1a7c60D6570F8692339EFC1f46bdF85`
+- Gregory Rocco @obstropolos (Spruce Founder, Independent) - `eip155:1:0x4Aa43327b1a7c60D6570F8692339EFC1f46bdF85`
 - Olaf Tomalka @ritave (MetaMask Snaps Lead) - `eip155:1:0xd6CE8bCa06795CC1711DFd4927A6EBde6C86F1E2`
 - Boris Mann @bmann (Fission Founder) - `eip155:1:0xA8C7372dC993d7510C9c45425807d463967cbb12`
 - Chairman/Tiebreaker: Juan Caballero @bumblefudge (Acting Executive Director, Independent) - `eip155:1:0xf5fEcE320f378bbAED76F38e7a9e9Fa5048b5A93`
@@ -95,9 +95,9 @@ Below, please find a list of all members and their organizations.
 
 | Organizations | Members | Status | Working groups |
 | :------------ | :------ | :----- | :------------- |
-| ChainAgnostic | Ligi ([@ligi](https://github.com/ligi)), Pedro Gomes ([@pedrouid](https://github.com/pedrouid)), Antoine Herzog ([@antoineherzog](https://github.com/antoineherzog)), Amadeo Pellicce ([@pellicceama](https://github.com/pellicceama)) | Maintainer | All Working groups |
+| [ChainAgnostic](https://chainagnostic.org) | Ligi ([@ligi](https://github.com/ligi)), Pedro Gomes ([@pedrouid](https://github.com/pedrouid)), Antoine Herzog ([@antoineherzog](https://github.com/antoineherzog)), Amadeo Pellicce ([@pellicceama](https://github.com/pellicceama)) | Maintainer | All Working groups |
 | [Epicenter](https://epicenter.tv) | Sebastien Couture ([@seb2point0](https://github.com/seb2point0)) | Member     | CAIPs discussion   |
-| Tally | Tarrence ([@tarrencev](https://github.com/tarrencev)) | Maintainer (go-caip) | All Working groups |
+| [Tally](https://tally.xyz) | Tarrence ([@tarrencev](https://github.com/tarrencev)) | Maintainer (go-caip) | All Working groups |
 | [Ceramic](https://ceramic.network) | Joel Thorstensson ([@oed](https://github.com/oed)), Sergey Ukustov ([@ukstv](https://github.com/ukstv))  | Member | All Working groups |
 | [Spruce](https://spruceid.com) | Wayne Chang ([@wyc](https://github.com/wyc)), Gregory Rocco ([@obstropolos](https://github.com/obstropolos)), Oliver Terbu ([@awoie](https://github.com/awoie)) | Member | CAIPs discussion |
 | [Learning Proof UG](https://learningproof.xyz) | Juan Caballero ([@bumblefudge](https://github.com/bumblefudge)) | Maintainer | CAIPs |
