@@ -13,7 +13,7 @@ C.A.S.A.:
 
 CASA is a self-organized and autonomous alliance of crypto-blockchain developers and enthusiasts. Its aim is to create standards which support interoperability and facilitate communication between blockchain protocols, software and companies.
 
-CASA organizes working groups where proposals are debated, drafted and submitted as CAIPs for the purpose implementation and community adoption.
+CASA organizes working groups where proposals are debated, drafted and published as "[CAIPs]" to harmonize development across developer communities.
 
 ## **Meetings**
 
@@ -32,3 +32,5 @@ Meetings can be seen on the `https://bit.ly/` links `thecasacalendar` (subscriba
 ## **Discord Server**
 
 For those who prefer realtime/social-style communications, we also run a Discord server, which is secondary and non-archival-- it can be found using [this Discord invite link](https://discord.gg/-remove-this-KxqKHppC39) _(note: this link has a spam/crawler deterrent that requires manual removal - please make sure to review the URL)_.
+
+[CAIPs]: https://chainagnostic.org/
