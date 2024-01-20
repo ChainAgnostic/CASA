@@ -2,7 +2,7 @@ remote_theme: chainAgnostic/cayman
 plugins:
 - jekyll-remote-theme
 - jekyll-relative-links
-title: CASA
+title: C.A.S.A.
 description: Chain Agnostic Standards Alliance
 relative_links:
   enabled: true

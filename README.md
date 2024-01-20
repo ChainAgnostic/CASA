@@ -1,6 +1,11 @@
-# Chain Agnostic Standards Alliance
+---
+nav: true
+---
 
-The Chain Agnostic Standards Alliance (CASA) is a collection of working groups dedicated blockchain protocol-agnostic standards. CASA also publishes [Chain Agnostic Improvement Proposals](https://github.com/ChainAgnostic/CAIPs) which describe standards created by the different working groups.
+The Chain Agnostic Standards Alliance (CASA) is a collection of working groups dedicated to designing and promoting standards that work across blockchain environments. CASA:
+* publishes [Chain Agnostic Improvement Proposals](https://github.com/ChainAgnostic/CAIPs), which are public documents produced by working groups.
+* facilitates collaboration, mostly in working-groups, asynchronously and on video calls
+* occasionally puts on in-person events at conferences
 
 ## **Purpose**
 
