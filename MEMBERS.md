@@ -4,6 +4,7 @@ name: Members
 linkname: Members
 ---
 
+# Members
 
 CASA is structured into three groups: 
 1. Members (anyone committed to the mission and participating even passively)
