@@ -32,12 +32,12 @@ For those who prefer realtime/social-style communications, we also run a Discord
 
 | Working Group | Scope | Meeting Frequency | Chair |
 | :------------ | :----- | :----- | :----- |
-| `Editorial` | New CAIPs and Namespaces | every 4 weeks | @bumblefudge |
-| `Addressing` | CAIP-2, -10, -19; URN/URI systems | Sporadic/By request | @bumblefudge |
-| `JSON-RPC`  | CAIP-25, -27 | Sporadic/By request | @hmalik88 |
-| `CACAO/AuthZ` | CAIP-74, -122, -168; [varint]() & [multidid](), interop with UCAN and ZCAP-LD | every 4 weeks | @bumblefudge/TBD | 
-| `Browser Security` | CAIP-169, -171 | Sporadic/By request | @kdenhartog |
-| *Secure Design* | UX<>Security, Privacy | every 4 weeks | @depatchedmode | 
+| **Editorial** | New CAIPs and Namespaces | every 4 weeks | @bumblefudge |
+| **Addressing** | CAIP-2, -10, -19; URN/URI systems | Sporadic/By request | @bumblefudge |
+| **JSON-RPC**  | CAIP-25, -27 | Sporadic/By request | @hmalik88 |
+| **CACAO/AuthZ** | CAIP-74, -122, -168; [varint]() & [multidid](), interop with UCAN and ZCAP-LD | every 4 weeks | @bumblefudge/TBD | 
+| **Browser Security** | CAIP-169, -171 | Sporadic/By request | @kdenhartog |
+| **Secure Design** | UX<>Security, Privacy | every 4 weeks | @depatchedmode | 
 
 ### **How to form a new working group**
 
