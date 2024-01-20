@@ -2,6 +2,7 @@ remote_theme: chainAgnostic/cayman
 plugins:
 - jekyll-remote-theme
 - jekyll-relative-links
+- jekyll-readme-index
 title: C.A.S.A.
 description: Chain Agnostic Standards Alliance
 baseurl: /
