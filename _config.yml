@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-relative-links
+theme: jekyll-theme-dinky
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - MEMBERS.md
