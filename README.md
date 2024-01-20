@@ -85,7 +85,7 @@ CASA participants are structured into three groups:
 - Gregory Rocco @obstropolos (Spruce Founder, Independent) - `eip155:1:0x4Aa43327b1a7c60D6570F8692339EFC1f46bdF85`
 - Olaf Tomalka @ritave (MetaMask Snaps Lead) - `eip155:1:0xd6CE8bCa06795CC1711DFd4927A6EBde6C86F1E2`
 - Boris Mann @bmann (Fission Founder) - `eip155:1:0xA8C7372dC993d7510C9c45425807d463967cbb12`
-- Chairman/Tiebreaker: Juan Caballero @bumblefudge (Acting Executive Director, Independent) - `eip155:1:0xf5fEcE320f378bbAED76F38e7a9e9Fa5048b5A93`
+- Janitor/Tiebreaker: Juan Caballero @bumblefudge (Independent) - `eip155:1:0xdEaDff53a9d726c59C1b5377dE147CB13Dd7c108`
 
 The Board members above use the addresses listed to directly control a [multi-signature "vault"](https://app.safe.global/home?safe=eth:0xEDA75C4e519FD27d7d28B7F20be407435fb74e2d) for transparent, on-chain grant reporting and other disbursements. 
 
