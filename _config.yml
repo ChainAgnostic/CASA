@@ -4,6 +4,7 @@ plugins:
 - jekyll-relative-links
 title: C.A.S.A.
 description: Chain Agnostic Standards Alliance
+baseurl: /
 relative_links:
   enabled: true
   collections: true

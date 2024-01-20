@@ -1,6 +1,7 @@
 ---
 nav: true
 name: Members
+linkname: Members
 ---
 
 
