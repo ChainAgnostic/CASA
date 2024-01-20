@@ -4,7 +4,7 @@ linkname: Home
 permalink: /
 ---
 
-C.A.S.A.:
+The Chain-Agnostic Standards Alliance:
 * publishes [Chain Agnostic Improvement Proposals](https://github.com/ChainAgnostic/CAIPs), which are public documents produced by working groups.
 * facilitates collaboration, mostly in working-groups, asynchronously and on video calls
 * puts on periodic in-person events, usually at relevant conferences
