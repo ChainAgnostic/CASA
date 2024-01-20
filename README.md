@@ -1,6 +1,7 @@
 ---
 nav: true
 linkname: Home
+permalink: /
 ---
 
 The Chain Agnostic Standards Alliance (CASA) is a collection of working groups dedicated to designing and promoting standards that work across blockchain environments. CASA:
