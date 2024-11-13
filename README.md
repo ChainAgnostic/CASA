@@ -124,6 +124,7 @@ Below, please find a list of all members and their organizations.
 | [Everyname](https://everyname.xyz) | Vinay Vasanji ([@iamvkv](https://github.com/iamvkv)) | Member | All Working Groups |
 | [vDL Digital Ventures GmbH](https://vdl.digital/) | Carlo van Driesten ([@jdsika](https://github.com/jdsika)), Roy Scheeren ([@royscheeren](https://github.com/royscheeren)) | Member | All Working Groups |
 | [Peanut Protocol](https://peanut.to) | Hugo Montenegro ([@hugo0](https://github.com/hugo0)), Konrad Urban ([@0xkkonrad](https://github.com/0xkkonrad)) | Member | All Working Groups |
+| [Etherspot](https://etherspot.io) | Parthasarathy Ramanujam ([@ch4r10t33r](https://github.com/ch4r10t33r)), Michael Messele ([@mm319](https://github.com/mm319)) | Member | All Working Groups |
 
 ## **Join CASA**
 
