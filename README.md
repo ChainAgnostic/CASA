@@ -3,19 +3,17 @@
 The Chain Agnostic Standards Alliance (CASA) is a collection of working groups dedicated blockchain protocol-agnostic standards. CASA also publishes [Chain Agnostic Improvement Proposals](https://github.com/ChainAgnostic/CAIPs) which describe standards created by the different working groups.
 
 ### **Table of Contents**
-- [**Chain Agnostic Standards Alliance**](#chain-agnostic-standards-alliance)
-    - [**Table of Contents**](#table-of-contents)
-  - [**Purpose**](#purpose)
-  - [**Meetings**](#meetings)
-    - [**Explicit and Implicit Agendas**](#explicit-and-implicit-agendas)
-  - [**Discord Server**](#discord-server)
-  - [**Working Groups**](#working-groups)
-    - [**List of working groups**](#list-of-working-groups)
-    - [**How to form a new working group**](#how-to-form-a-new-working-group)
-  - [**Organizational Structure**](#organizational-structure)
-    - [Current Board Membership](#current-board-membership)
-  - [**Members**](#members)
-  - [**Join CASA**](#join-casa)
+- [**Purpose**](#purpose)
+- [**Meetings**](#meetings)
+  - [**Explicit and Implicit Agendas**](#explicit-and-implicit-agendas)
+- [**Discord Server**](#discord-server)
+- [**Working Groups**](#working-groups)
+  - [**List of working groups**](#list-of-working-groups)
+  - [**How to form a new working group**](#how-to-form-a-new-working-group)
+- [**Organizational Structure**](#organizational-structure)
+  - [Current Board Membership](#current-board-membership)
+- [**Members**](#members)
+- [**Join CASA**](#join-casa)
 
 
 ## **Purpose**
@@ -50,10 +48,10 @@ For those who prefer realtime/social-style communications, we also run a Discord
 | :------------ | :----- | :----- | :----- |
 | `Editorial` | New CAIPs and Namespaces | every 4 weeks | @bumblefudge |
 | `Addressing` | CAIP-2, -10, -19; URN/URI systems | Sporadic/By request | @bumblefudge |
-| `JSON-RPC`  | CAIP-25, -27 | Sporadic/By request | @hmalik88 |
-| `CACAO/AuthZ` | CAIP-74, -122, -168; [varint]() & [multidid](), interop with UCAN and ZCAP-LD | every 4 weeks | @bumblefudge/TBD | 
+| `JSON-RPC`  | CAIP-25, -27 | Every 2 weeks | @hmalik88 |
+| `CACAO/AuthZ` | CAIP-74, -122, -168; [varint]() & [multidid](), interop with UCAN and ZCAP-LD | Sporadic/By request | @bumblefudge/@expede | 
 | `Browser Security` | CAIP-169, -171 | Sporadic/By request | @kdenhartog |
-| *Secure Design* | UX<>Security, Privacy | every 4 weeks | @depatchedmode | 
+| *Secure Design* | UX<>Security, Privacy | On hiatus/By request | @depatchedmode | 
 
 ### **How to form a new working group**
 
@@ -106,7 +104,7 @@ Below, please find a list of all members and their organizations.
 | [Metagov](https://metagov.org) | Joshua Tan ([@thelastjosh](https://github.com/thelastjosh)) | Member | All Working Groups |
 | [kycDAO](https://kycdao.xyz) | Balázs Némethi ([@nembal](https://github.com/nembal)) | Member | All Working Groups |
 | [cheqd](https://www.cheqd.io/) | Ross Power ([@rosspower11](https://github.com/rosspower11)) | Member | All Working Groups |
-| [Fission](https://fission.codes/) | Boris Mann ([@bmann](https://github.com/bmann)), Brooklyn Zelenka ([@expede](https://github.com/expede)), Ryan Betts ([@depatchedmode](https://github.com/depatchedmode)), Andy Vivash ([@avivash](https://github.com/avivash)) | Member | All Working Groups |
+| [Fission](https://fission.codes/) (RIP) | Boris Mann ([@bmann](https://github.com/bmann)), Brooklyn Zelenka ([@expede](https://github.com/expede)), Ryan Betts ([@depatchedmode](https://github.com/depatchedmode)), Andy Vivash ([@avivash](https://github.com/avivash)) | Member | All Working Groups |
 | [Danube Tech](https://danubetech.com/) | Markus Sabadello ([@peacekeeper](https://github.com/peacekeeper)) | Member | All Working Groups |
 | [Obvious](https://obvious.technology/) | Jebu Ittiachen ([@jebu](https://github.com/jebu)) | Member | All Working Groups |
 | [Dynamic](https://www.dynamic.xyz/) | Itai Turbahn ([@turbahn](https://github.com/turbahn)), Paolo Lim ([@paololim](https://github.com/paololim)) | Member | All Working Groups |
