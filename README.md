@@ -124,6 +124,7 @@ Below, please find a list of all members and their organizations.
 | [Peanut Protocol](https://peanut.to) | Hugo Montenegro ([@hugo0](https://github.com/hugo0)), Konrad Urban ([@0xkkonrad](https://github.com/0xkkonrad)) | Member | All Working Groups |
 | [Etherspot](https://etherspot.io) | Parthasarathy Ramanujam ([@ch4r10t33r](https://github.com/ch4r10t33r)), Michael Messele ([@mm319](https://github.com/mm319)) | Member | All Working Groups |
 | [CHEQs](https://cheqs.com) | Richard Piacentini ([@ricp](https://github.com/ricp)) | Member | All Working Groups |
+| [Garden](https://garden.finance) [Standard](https://standard.xyz) | Susruth Nadimpalli ([@susruth](https://github.com/susruth)) | Member | All Working Groups | 
 
 ## **Join CASA**
 
